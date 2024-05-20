@@ -9,7 +9,7 @@
   margin: 5px;
 }
 
-.piece img {
+.piece img {https://puzzle-maker.online/jigsaw-puzzle-9i7165-butterflies
   width: 100%; 
 }
 
